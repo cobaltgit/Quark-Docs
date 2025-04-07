@@ -1,0 +1,45 @@
+site_name: Quark
+site_url: https://quark.cobaltonline.net
+repo_url: https://github.com/cobaltgit/Quark
+edit_uri: https://github.com/cobaltgit/Quark-Docs/edit/main/docs
+repo_name: cobaltgit/Quark
+copyright: © 2025 Cobalt
+
+theme:
+  name: material
+  favicon: assets/favicon.ico
+  logo: assets/img/quark_logo.png
+  palette:
+    scheme: slate
+    primary: green
+  features:
+  - content.action.edit
+  - navigation.top
+  - navigation.indexes
+  - navigation.path
+  - navigation.sections
+  - navigation.tabs
+  - navigation.tracking
+  - toc.follow
+  - toc.integrate
+  - search.suggest
+  - content.tooltips
+  - content.code.annotate
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Getting Started: 
+    - Getting Started: getting-started/index.md
+    - Installation: getting-started/install.md
+    - Updating: getting-started/update.md
+    - Adding ROMs: getting-started/roms.md
+    - BIOS Files: getting-started/bios.md
+  - Guides:
+    - Network Services: guides/network.md
+    - Quark Gluons: guides/gluons.md
