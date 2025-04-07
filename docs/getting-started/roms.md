@@ -28,8 +28,8 @@ Metal Gear Solid (USA).m3u
 ...the contents of the M3U file (`Metal Gear Solid (USA).m3u`) being as follows:
 
 ```
-Metal Gear Solid (USA) (Disc 1).cue
-Metal Gear Solid (USA) (Disc 2).cue
+.Metal Gear Solid (USA)/Metal Gear Solid (USA) (Disc 1).cue
+.Metal Gear Solid (USA)/Metal Gear Solid (USA) (Disc 2).cue
 ```
 
 Any orphaned single-track `.bin` files will have a corresponding cuesheet generated.
