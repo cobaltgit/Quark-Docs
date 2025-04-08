@@ -9,7 +9,7 @@ Use the table below to help you find the BIOS files you need for the systems tha
 
 | System    | BIOS filename(s)                                                                                  |
 |-----------|---------------------------------------------------------------------------------------------------|
-| AMIGA     | `kick33180.A500` `kick4005.A500` `kick37175.A500` `kick39106.A1200` `kick40068.A1200`             |
+| AMIGA     | `kick34005.A500` `kick40063.A600` `kick40068.A1200`                                               |
 | ATARI800  | `ATARIXL.rom` `ATARIBAS.rom` `ATARIOSA.rom` `ATARIOSB.rom`                                        |
 | ATARI5200 | `5200.rom`                                                                                        |
 | ATARIST   | `tos.img`                                                                                         |
