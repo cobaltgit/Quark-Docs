@@ -2,7 +2,9 @@
 
 ![A white TRIMUI Smart with the Quark default boot logo](assets/img/trimui_smart_quark.png)
 
-Quark is a modified version of the stock SD card package for the *TRIMUI Smart* handheld gaming device, originally created with the intention to trim (pun intended?) out the bloat from TRIMUI's official package as well as adding a multitude of extra goodies, such as additional systems, applications and ports. 
+Quark is a modified version of the stock SD card package for the *TRIMUI Smart* handheld gaming device, originally created with the intention to trim (pun intended?) out the bloat from TRIMUI's official package as well as adding a multitude of extra goodies, such as additional systems, applications and ports.
+
+## Why Quark?
 
 Compared to the official stock base package, Quark:
 
