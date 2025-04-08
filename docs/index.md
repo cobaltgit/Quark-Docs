@@ -12,3 +12,15 @@ Compared to the official stock base package, Quark:
 * Support for network services including Syncthing, SSH, SFTP and HTTP file transfer!
 
 You can download the latest release of Quark by clicking the link [here](https://github.com/cobaltgit/Quark/releases/latest)
+
+## Credits
+
+* **[spruce](https://github.com/spruceUI) team:** centralised emulator launch, smart CPU governor logic and inspiration
+* **[libretro](https://www.retroarch.com/):** icons from Systematic/Retroactive RetroArch XMB themes
+* **[Jutleys](https://github.com/Jutleys):** Dingux Commander from [Tomato](https://github.com/Jutleys/Trimui-Smart-Tomato), as well as some system icons
+* **[chrizzo-hb](https://github.com/chrizzo-hb/knulli-bezels):** overlays/bezels for handheld systems
+
+### Special thanks
+
+* **[ryanmsartor](https://github.com/ryanmsartor)**: overall contributions
+* **[Marcoosio101](https://github.com/Marcoosio101)**: testing and issue reporting
