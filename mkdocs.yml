@@ -25,6 +25,18 @@ theme:
   - search.suggest
   - content.tooltips
   - content.code.annotate
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/2jU6yQ4ZT9
+    - icon: fontawesome/brands/github
+      link: https://github.com/cobaltgit/Quark
+
+  urls:
+    discord: https://discord.gg/2jU6yQ4ZT9
+    github: https://github.com/cobaltgit/Quark
+
 markdown_extensions:
   - admonition
   - attr_list
