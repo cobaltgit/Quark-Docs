@@ -43,3 +43,5 @@ nav:
   - Guides:
     - Network Services: guides/network.md
     - Quark Gluons: guides/gluons.md
+  - Support:
+    - FAQ: support/faq.md
