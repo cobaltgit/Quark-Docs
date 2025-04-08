@@ -14,7 +14,7 @@ Compared to the official stock base package, Quark:
 * takes up less install space, much of the bloat has been removed
 * includes many more supported game systems, from additional home consoles and handhelds to home computers and ported games.
 * has the latest emulator cores and optimised CPU profiles for the best balance between performance, emulator features and battery life
-* Support for network services including Syncthing, SSH, SFTP and HTTP file transfer!
+* supports network services including Syncthing, SSH, SFTP and HTTP file transfer!
 
 ## Credits
 
