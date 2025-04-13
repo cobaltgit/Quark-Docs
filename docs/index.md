@@ -26,4 +26,4 @@ Compared to the official stock base package, Quark:
 ### Special thanks
 
 * **[ryanmsartor](https://github.com/ryanmsartor)**: overall contributions
-* **[Marcoosio101](https://github.com/Marcoosio101)**: testing and issue reporting
+* **[Marcoosio101](https://github.com/Marcoosio101)**: testing and issue reporting, default theme design

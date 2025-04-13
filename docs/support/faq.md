@@ -8,9 +8,13 @@ Please ensure your Smart is updated to firmware **v1.0.0**, see the instructions
 
 ## *How can I use L2 and R2 buttons?*
 
-Enable *Menu+L/R* in the Settings menu within MainUI.
+Enable *Menu + L/R -> L2/R2* in the Settings menu within MainUI.
 
 MENU + L and MENU + R combos will respectively be mapped to L2 and R2 buttons.
+
+## *My MP3s are playing slower/faster than they should*
+
+Quark's built in MP3 player uses **44100Hz** as the sample rate. You'll need to make sure that the MP3s you are playing are of this sample rate - higher or lower sample rates (i.e. 48000Hz or 22050Hz) will cause your audio to be played slower or faster with pitch changes.
 
 ## *What systems are supported?*
 
@@ -42,6 +46,7 @@ Quark supports a large list of systems, even more so than the stock operating sy
 * Atari Lynx (Handy)
 * Sega Mega Drive (PicoDrive)
 * Sega Master System (PicoDrive)
+* MP3 player
 * MSX / MSX2 (blueMSX)
 * Neo Geo (FB Alpha 2012)
 * Neo Geo CD (NeoCD)
