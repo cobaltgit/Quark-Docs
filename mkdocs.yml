@@ -51,13 +51,14 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started: 
-    - Getting Started: getting-started/index.md
+    - getting-started/index.md
     - Installation: getting-started/install.md
     - Updating: getting-started/update.md
     - Adding ROMs: getting-started/roms.md
     - BIOS Files: getting-started/bios.md
   - Guides:
     - Network Services: guides/network.md
+    - Scraping Boxart: guides/scraping.md
     - Quark Gluons: guides/gluons.md
   - Support:
     - FAQ: support/faq.md

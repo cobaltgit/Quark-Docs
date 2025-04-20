@@ -1,18 +1,42 @@
 # Updating Quark
 
-Before updating Quark, you should have the following backed up on your microSD card:
-
-* Your BIOS folder
-* Your Roms folder
-* Your Saves folder
-* Any configuration overrides that you have made
-
 !!! warning
-    Some save states may become incompatible in the event of a RetroArch core update. Make sure to make in-game saves for your important games before updating!!
+    Before updating, always make sure to create save files in-game (**not save states**) for your games - updates to RetroArch cores may cause save state incompatibilities!
 
-To update, first delete everything on your microSD card except the above listed folders.
+## Method 1 - OTA Update
 
-Then, it's as simple as downloading the latest release [here](https://github.com/cobaltgit/Quark) and unzipping it over the root of your microSD card.
+!!! note
+    This method requires Quark v1.1.0 or newer
 
-!!! tip
-    Bug fix releases are also distributed as patch gluons, which can be placed into `SDCARD:/System/archives` to extract on boot. They require that the latest feature release is installed (i.e. updating from v1.1.0 to v1.1.1)
+1. With your Smart connected to WiFi, navigate to the Store from the main menu. You may need to refresh, in this case press MENU then select *Refresh*.
+2. Head to Updates and then select the latest update package
+   
+    ![Quark Store Updates](../assets/img/store_update.png)
+
+3. Select the latest update package, then select *INSTALL*
+
+    ![Quark Updater Package](../assets/img/update_install.png)
+
+4. Reboot your device, or perform an action that restarts MainUI (i.e. launch or exit a game or app)
+5. Head to Apps, then select the *Quark Updater*
+
+    ![Quark Updater App](../assets/img/quark_updater.png)
+
+Your Smart will then extract the update package onto your SD card, then reboot. Your data (i.e. saves and configs) will be preserved across the update.
+
+## Method 2 - Update Package
+
+!!! note
+    This method works with all versions of Quark
+
+1. Download the Updater package from the latest release of Quark [here](https://github.com/cobaltgit/Quark/releases/latest) (i.e. `Quark-v1.3.0-Updater.7z`)
+2. Extract the package to the root of your microSD card, insert and boot your Smart.
+3. Head to Apps, then select the *Quark Updater*
+
+    ![Quark Updater App](../assets/img/quark_updater.png)
+
+Your Smart will then extract the update package onto your SD card, then reboot. Your data (i.e. saves and configs) will be preserved across the update.
+
+## Method 3 - Fresh Install
+
+Make sure you have everything you need backed up from your previous install. Delete everything on your microSD card (except BIOS, ROMs, saves and other user-made changes) and extract the release into the root as if you're installing fresh.
