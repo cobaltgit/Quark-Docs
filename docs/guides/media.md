@@ -10,9 +10,9 @@ After installation, drop your media into `SDCARD:/Roms/MEDIA`
 !!! tip
     Click the button below to download a Handbrake preset with recommended settings for encoding videos for the Smart:
 
-    This encodes video to 320x240 maximum resolution, using H.264 codec with AAC mono downmixed audio. If you have a build of Handbrake with FDK-AAC enabled, consider switching the audio codec to *AAC (FDK)* for slightly better audio quality.
+    This encodes video to 320x240 maximum resolution, using H.264 codec with AAC mono downmixed audio. If you have a build of Handbrake with FDK-AAC enabled, consider switching the audio codec to **AAC (FDK)** for slightly better audio quality.
 
-    You may want to increase the audio track's gain depending on the input media to compensate for the Smart's small speaker.
+    You may also want to increase the audio track's gain depending on the input media to compensate for the Smart's small speaker.
 
     [Download Handbrake preset](../assets/files/Handbrake-TrimUI-Smart.json){ .md-button }
 
