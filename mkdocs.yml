@@ -60,5 +60,6 @@ nav:
     - Network Services: guides/network.md
     - Scraping Boxart: guides/scraping.md
     - Quark Gluons: guides/gluons.md
+    - Media Player: guides/media.md
   - Support:
     - FAQ: support/faq.md
