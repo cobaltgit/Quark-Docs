@@ -1,6 +1,6 @@
 # Media Player
 
-Aside from Quark's built-in MP3 player, a gluon is also available containing `ffplay`, the recommended choice for playing videos and music on your Smart.
+Aside from Quark's rudimentary built-in MP3 player, a gluon is also available containing `ffplay`, the recommended choice for playing a range of videos and music on your Smart.
 
 This gluon is available from the Quark Store, under *Systems*, or can be downloaded from the corresponding release on GitHub [here](https://github.com/cobaltgit/Quark-Gluons/releases/tag/systems)
 ![ffplay in Quark Store](../assets/img/store_ffplay.png){align=right}
