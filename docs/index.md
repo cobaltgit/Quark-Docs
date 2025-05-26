@@ -25,5 +25,5 @@ Compared to the official stock base package, Quark:
 
 ### Special thanks
 
-* **[ryanmsartor](https://github.com/ryanmsartor)**: overall contributions
+* **[ryanmsartor](https://github.com/ryanmsartor)**: overall contributions, length-matching domain name for patched MainUI for Quark Store
 * **[Marcoosio101](https://github.com/Marcoosio101)**: testing and issue reporting, default theme design
