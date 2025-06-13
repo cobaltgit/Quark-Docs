@@ -4,7 +4,7 @@
 
 This is likely because your Smart is on an older firmware incompatible with Quark's app store-patched MainUI (i.e. **0.116alpha**)
 
-Please ensure your Smart is updated to firmware **v1.0.0**, see the instructions [here](../getting-started/install.md)
+Please ensure your Smart is updated to firmware **v1.0.0**, see the instructions in the *Installation* section [here](../getting-started/index.md)
 
 ## *How can I use L2 and R2 buttons?*
 

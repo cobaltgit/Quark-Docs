@@ -14,4 +14,4 @@ You will need:
     - For Linux, use the `mkfs.vfat` command.
 - The latest release of Quark, which can be downloaded [here](https://github.com/cobaltgit/Quark/releases/latest)
 
-See [this page](install.md) for a complete guide to setting up your Smart and SD card for installing Quark.
+See the *Installation* section for a complete guide to setting up your Smart and SD card for installing Quark.

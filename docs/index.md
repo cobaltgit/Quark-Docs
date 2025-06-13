@@ -27,3 +27,4 @@ Compared to the official stock base package, Quark:
 
 * **[ryanmsartor](https://github.com/ryanmsartor)**: overall contributions, length-matching domain name for patched MainUI for Quark Store
 * **[Marcoosio101](https://github.com/Marcoosio101)**: testing and issue reporting, default theme design
+* **[spycat](https://github.com/spycat88)**: one-click installer for Windows

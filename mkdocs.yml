@@ -52,7 +52,9 @@ nav:
   - Home: index.md
   - Getting Started: 
     - getting-started/index.md
-    - Installation: getting-started/install.md
+    - Installation:
+      - Firmware: getting-started/install/firmware.md
+      - Install Quark: getting-started/install/sdcard.md
     - Updating: getting-started/update.md
     - Adding ROMs: getting-started/roms.md
     - BIOS Files: getting-started/bios.md
