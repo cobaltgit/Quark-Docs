@@ -50,16 +50,21 @@
 
 === "One-Click Installer"
 
-    ![Quark Burner](../../assets/img/quark_burner.png){align=right}
+    ![Windows](../../assets/img/quark_burner.png){align=right}
 
     **Quark Burner**
 
+    Windows and Linux users can alternatively download the program below for installing Quark:
+
+    [:material-microsoft-windows: Windows](../../assets/files/burner/QuarkBurner.exe){ .md-button }
+    [:simple-linux: Linux](../../assets/files/burner/QuarkBurner){ .md-button }
+
     !!! note
-        This method is only available for Windows users as of current.
-
-    Windows users can alternatively download the program below for installing Quark:
-
-    [Download Quark Burner](../../assets/files/QuarkBurner.exe){ .md-button }
+        Linux users will need to run with root permissions:
+        ```sh
+        $ sudo ./QuarkBurner
+        ...
+        ```
 
     Just select the version of Quark you'd like to install and the SD card you'd like to install it on and then hit the blue *Write Quark to Drive* button. 
     
