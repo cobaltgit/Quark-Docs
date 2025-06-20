@@ -50,7 +50,7 @@
 
 === "One-Click Installer"
 
-    ![Windows](../../assets/img/quark_burner.png){align=right}
+    ![Quark Burner](../../assets/img/quark_burner.png){align=right}
 
     **Quark Burner**
 
