@@ -55,4 +55,4 @@ Insert the SD card into your Smart and boot - it may take a little longer, this 
 
 ![Quark app store](../assets/img/quark_store.png)
 
-Official gluons can alternatively be installed via the built-in app store. Make sure your Smart is connected to WiFi and select the *Store* option from the main menu. To refresh the store, press MENU and select *Refresh*.
+Official gluons can alternatively be installed via the built-in app store. Make sure your Smart is connected to WiFi and select the *Store* option from the main menu. To refresh the store, press MENU and select *Refresh*, or reboot your device.
