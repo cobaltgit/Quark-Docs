@@ -3,7 +3,7 @@
 Aside from Quark's rudimentary built-in MP3 player, a gluon is also available containing `ffplay`, the recommended choice for playing a range of videos and music on your Smart.
 
 This gluon is available from the Quark Store, under *Systems*, or can be downloaded from the corresponding release on GitHub [here](https://github.com/cobaltgit/Quark-Gluons/releases/tag/systems)
-![ffplay in Quark Store](../assets/img/store_ffplay.png){align=right}
+![ffplay in Quark Store](../../assets/img/store_ffplay.png){align=right}
 
 After installation, drop your media into `SDCARD:/Roms/MEDIA`
 
@@ -14,7 +14,7 @@ After installation, drop your media into `SDCARD:/Roms/MEDIA`
 
     You may also want to increase the audio track's gain depending on the input media to compensate for the Smart's small speaker.
 
-    [Download Handbrake preset](../assets/files/Handbrake-TrimUI-Smart.json){ .md-button }
+    [Download Handbrake preset](../../assets/files/Handbrake-TrimUI-Smart.json){ .md-button }
 
 ## Controls
 

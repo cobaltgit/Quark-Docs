@@ -61,7 +61,9 @@ nav:
   - Guides:
     - Network Services: guides/network.md
     - Scraping Boxart: guides/scraping.md
-    - Quark Gluons: guides/gluons.md
-    - Media Player: guides/media.md
+    - Quark Gluons:
+      - What are Gluons?: guides/gluons/index.md
+      - Media Player: guides/gluons/media.md
+      - Ported Games: guides/gluons/ports.md
   - Support:
     - FAQ: support/faq.md
