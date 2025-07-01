@@ -21,7 +21,7 @@ Quark's built in MP3 player uses **44100Hz** as the sample rate. You'll need to 
 Quark supports a large list of systems, even more so than the stock operating system and all the while having a smaller install footprint!
 
 * Commodore Amiga (UAE4ARM)
-* Arcade (FB Alpha 2012 / MAME 2003 Plus)
+* Arcade (FB Alpha 2012 / MAME 2003 Plus / MAME 2003 Xtreme Amped)
 * Arduboy (Ardens)
 * Atari 8-bit computers (Atari800)
 * Atari 2600 (Stella 2014)
@@ -39,13 +39,13 @@ Quark supports a large list of systems, even more so than the stock operating sy
 * Nintendo Entertainment System (FCEUmm)
 * Nintendo Family Computer Disk System (FCEUmm)
 * Nintendo Game Boy / Game Boy Color (Gambatte)
-* Nintendo Game Boy Advance (gpSP)
-* Sega Game Gear (PicoDrive)
+* Nintendo Game Boy Advance (gpSP / mGBA)
+* Sega Game Gear (PicoDrive / Genesis Plus GX)
 * MADrigal's Simulators (GW)
 * Intellivision (FreeIntv)
 * Atari Lynx (Handy)
-* Sega Mega Drive (PicoDrive)
-* Sega Master System (PicoDrive)
+* Sega Mega Drive (PicoDrive / Genesis Plus GX)
+* Sega Master System (PicoDrive / Genesis Plus GX)
 * MP3 player
 * MSX / MSX2 (blueMSX)
 * Neo Geo (FB Alpha 2012)
@@ -62,8 +62,8 @@ Quark supports a large list of systems, even more so than the stock operating sy
 * Quake (TyrQuake)
 * Sega 32X (PicoDrive)
 * Sega Mega CD (PicoDrive / Genesis Plus GX)
-* Super Nintendo Entertainment System (ChimeraSNES)
-* Sega SG-1000 / SC-3000 (PicoDrive)
+* Super Nintendo Entertainment System (ChimeraSNES / Snes9x 2005 Plus / Snes9x)
+* Sega SG-1000 / SC-3000 (PicoDrive / Genesis Plus GX)
 * NEC PC Engine SuperGrafx (Beetle SuperGrafx)
 * Watara Supervision (Potator)
 * TIC-80
