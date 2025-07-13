@@ -7,7 +7,7 @@ You will need:
 !!! note
     It is not recommended to use the stock, unbranded (i.e. *64* label) microSD cards that are shipped with devices due to their failure rates. 
     
-    Choose a microSD card from a reputable brand, such as **SanDisk** or **Samsung**.
+    Choose a microSD card from a reputable brand, known good ones are **SanDisk**, **Samsung** and **Lexar**.
 - SD card formatting software
     - For Windows, use [Rufus](https://rufus.ie) or the SD Association's [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/)
     - For macOS, use the built in Disk Utility tool or the `diskutil` command
