@@ -62,6 +62,7 @@
     !!! note
         Linux users will need to run with root permissions:
         ```sh
+        $ chmod +x QuarkBurner
         $ sudo ./QuarkBurner
         ...
         ```
