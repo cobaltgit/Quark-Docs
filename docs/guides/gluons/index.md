@@ -4,7 +4,7 @@ So you might ask, what are *gluons*? They are add-ons that can be installed alon
 
 Gluons are, in essence, zip archives that have the same folder structure as your Quark installation so that they can extract into your system and integrate as smoothly as possible.
 
-For example, below is the directory tree for the FinalBurn Neo system gluon - gluons adding additional systems via RetroArch i.e. ScummVM will have a similar structure:
+For example, below is the directory tree for the FinalBurn Neo system gluon - gluons adding additional systems via RetroArch i.e. ScummVM will have a similar structure, integrating smoothly with the default system launch script:
 
 ```
 Quark_System_FBNeo.zip
@@ -56,3 +56,10 @@ Insert the SD card into your Smart and boot - it may take a little longer, this 
 ![Quark app store](../../assets/img/quark_store.png)
 
 Official gluons can alternatively be installed via the built-in app store. Make sure your Smart is connected to WiFi and select the *Store* option from the main menu. To refresh the store, press MENU and select *Refresh*, or reboot your device.
+
+## Credits
+
+* [**Marcoosio101**](https://github.com/Marcoosio101): JC Zelda themes
+* **eggsz**: Super Mario 64, VVVVVV and Ganbare Natsuki-san ports
+* [**netux75**](https://github.com/netux79): Zelda Classic v2.10 libretro port
+* [**Steward-Fu**](https://steward-fu.github.io/website): Streets of Rage Remake port, DraStic DS emulator port
