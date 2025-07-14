@@ -68,6 +68,11 @@
         ```
 
     Just select the version of Quark you'd like to install and the SD card you'd like to install it on and then hit the blue *Write Quark to Drive* button. 
+
+    ??? info "Install Types"  
+        Two types of Quark installation are provided:  
+        • **Base**: the latest version of Quark, only the base system  
+        • **Full**: the latest version of Quark, plus all non-port gluons (systems and themes)
     
     The program will then download and verify the latest version of Quark, format your SD card and unzip it for you!
 
