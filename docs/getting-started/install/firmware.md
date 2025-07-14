@@ -10,6 +10,6 @@ Firmwares that Quark has been tested on:
 
 If your Smart has shipped with an older firmware version (i.e. **0.116alpha**), you'll need to update to **v1.0.0** before installing Quark:
 
-1. Download the SD recovery image from the GitHub release link [here](https://github.com/trimui/firmware_smart/releases/tag/v1.0.0)
+1. Download the SD recovery image from the GitHub release link [here](https://github.com/trimui/firmware_smart/releases/download/v1.0.0/sd_image_recovery_tg2040_trimui_smart_20240510.7z)
 2. Use an SD card flasher such as the bundled Win32DiskImager (Windows only) or [balenaEtcher](https://etcher.balena.io/) (Windows/Mac/Linux) to flash the image to a spare microSD card
 3. Insert the newly created microSD card and boot your Smart. Wait until the LED stops flashing blue.
