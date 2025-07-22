@@ -24,7 +24,7 @@
 
     Your Smart will then extract the update package onto your SD card, then reboot. Your data (i.e. saves and configs) will be preserved across the update.
 
-=== "Manual Updater"
+=== "Updater Package"
 
     !!! note
         This method works with all versions of Quark
