@@ -16,6 +16,9 @@ MENU + L and MENU + R combos will respectively be mapped to L2 and R2 buttons.
 
 Quark's built in MP3 player uses **44100Hz** as the sample rate. You'll need to make sure that the MP3s you are playing are of this sample rate - higher or lower sample rates (i.e. 48000Hz or 22050Hz) will cause your audio to be played slower or faster with pitch changes.
 
+!!! tip
+    It is highly recommended to install the [`ffplay` gluon](../guides/gluons/media.md) for media playback, allowing you to play a wide range of video and audio formats.
+
 ## *What systems are supported?*
 
 Quark supports a large list of systems, even more so than the stock operating system and all the while having a smaller install footprint!
