@@ -28,7 +28,7 @@ Hello SSH!
 ### SFTP
 
 By extension, SFTP access is also supported, courtesy of [`gesftpserver`](https://www.greenend.org.uk/rjk/sftpserver/). Simply log in with your SSH credentials using your favourite SFTP client and transfer away!
-```
+```sh
 $ sftp root@<ip>
 root@<ip>'s password: # password: quark
 sftp>
