@@ -18,8 +18,6 @@ To enable and use SSH on your Smart:
 ```sh
 $ ssh root@<ip>
 root@<ip>'s password: # password: quark
-
-
 BusyBox v1.27.2 () built-in shell (ash)
 
 /mnt/SDCARD # echo Hello SSH!
@@ -27,12 +25,18 @@ Hello SSH!
 /mnt/SDCARD #
 ```
 
-!!! tip
-    SFTP is also supported by extension via [`gesftpserver`](https://www.greenend.org.uk/rjk/sftpserver/)! Simply log in with the same credentials using an SFTP client and transfer files between your computer and your Smart!
+### SFTP
+
+By extension, SFTP access is also supported, courtesy of [`gesftpserver`](https://www.greenend.org.uk/rjk/sftpserver/). Simply log in with your SSH credentials using your favourite SFTP client and transfer away!
+```
+$ sftp root@<ip>
+root@<ip>'s password: # password: quark
+sftp>
+```
 
 ## Syncthing
 
-A first for this device, support for Syncthing is included out of the box! This allows you to sync your save files etc. with other devices!
+A first for this device, support for Syncthing is included out of the box! This allows you to s ync your save files etc. with other devices!
 
 * Default username: `quark`
 * Default password: `quark`
