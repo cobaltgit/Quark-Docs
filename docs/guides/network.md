@@ -25,12 +25,30 @@ Hello SSH!
 /mnt/SDCARD #
 ```
 
+### SCP
+
+The Dropbear SSH daemon used by Quark also supports file transfers via SCP (secure copy protocol):
+```sh
+# example: uploading file
+$ scp "Super Mario Bros (World).zip" root@<ip>:/mnt/SDCARD/Roms/FC/
+root@<ip>'s password: # password: quark
+...
+
+# example: downloading file
+$ scp "root@<ip>:/mnt/SDCARD/Saves/saves/PicoDrive/Sonic & Knuckles + Sonic the Hedgehog 3 (USA) (Lock-on Combination).srm" .
+root@<ip>'s password: # password: quark
+...
+```
 ### SFTP
 
 By extension, SFTP access is also supported, courtesy of [`gesftpserver`](https://www.greenend.org.uk/rjk/sftpserver/). Simply log in with your SSH credentials using your favourite SFTP client and transfer away!
 ```sh
 $ sftp root@<ip>
 root@<ip>'s password: # password: quark
+sftp> put "Super Mario Bros (World).zip" /mnt/SDCARD/Roms/FC # example: upload ROM to directory
+...
+sftp> get /mnt/SDCARD/Saves/saves # example: download all save files
+...
 sftp>
 ```
 
