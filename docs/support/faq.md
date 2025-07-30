@@ -81,4 +81,6 @@ Also available in the official Gluons repository are:
 
 * Arcade (FinalBurn Neo)
 * Nintendo DS (DraStic standalone emulator by Steward Fu)
+* ffplay (media player)
 * ScummVM
+* Zelda Classic v2.1.0
