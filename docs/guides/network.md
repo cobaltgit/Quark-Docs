@@ -47,7 +47,7 @@ $ sftp root@<ip>
 root@<ip>'s password: # password: quark
 sftp> put "Super Mario Bros (World).zip" /mnt/SDCARD/Roms/FC # example: upload ROM to directory
 ...
-sftp> get /mnt/SDCARD/Saves/saves # example: download all save files
+sftp> get -R /mnt/SDCARD/Saves/saves # example: download all save files
 ...
 sftp>
 ```
