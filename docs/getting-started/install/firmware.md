@@ -2,7 +2,7 @@
 
 Firmwares that Quark has been tested on:
 
-* **v1.0.1** (`UI Version: 20240707`) (shipped with black Smart devices)
+* **v1.0.1** (`UI Version: 20240707`) (shipped with newer devices, not available on GitHub)
 * **v1.0.0** (`UI Version: 20240511`) (latest firmware available on TrimUI GitHub)
 
 !!! warning
