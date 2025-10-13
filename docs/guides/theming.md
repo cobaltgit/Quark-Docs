@@ -47,7 +47,7 @@ Additionally, in Quark v1.6.0 and above, the `skin/` folder can contain a `bootl
 This folder contains:
 
 * `click.wav`: played when navigating the user interface, must be an uncompressed WAVE format file with 44100Hz sample rate. Can be toggled separately in Quark v1.6.0 and above
-* `bgm.mp3`: MainUI background music
+* `bgm.mp3`: MainUI background music. Volume can be adjusted using the *BGM Volume* setting in the Settings menu.
 * `boot.wav`: plays on boot before entering MainUI if present. Must be an uncompressed WAVE format file
 
 !!! note
