@@ -61,6 +61,7 @@ nav:
     - BIOS Files: getting-started/bios.md
   - Guides:
     - Network Services: guides/network.md
+    - PICO-8: guides/pico8.md
     - Scraping Boxart: guides/scraping.md
     - Quark Gluons:
       - What are Gluons?: guides/gluons/index.md
