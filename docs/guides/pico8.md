@@ -1,6 +1,6 @@
 # PICO-8
 
-![Splore](../../assets/img/pico8_splore.png){align=right}
+![Splore](../assets/img/pico8_splore.png){align=right}
 Quark supports the Lexaloffle PICO-8 player, and has the ability to download and import carts via Splore!
 
 Massive credit to sagotch for the [SDL2 build](https://github.com/sagotch/SDL2-TG2040) that makes this possible!
@@ -10,7 +10,7 @@ Massive credit to sagotch for the [SDL2 build](https://github.com/sagotch/SDL2-T
 
 To install PICO-8, purchase and download the binaries from the official website [here](https://www.lexaloffle.com/pico-8.php?#getpico8): more specifically, you will need the **Raspberry Pi** 32-bit version of PICO-8.
 Download and extract the files `pico8.dat` and `pico8_dyn` from the PICO-8 zip file into the `BIOS/Pico-8` folder at the root of your Quark microSD card.
-![Launch Splore](../../assets/img/quark_splore_launch.png){align=right}
+![Launch Splore](../assets/img/quark_splore_launch.png){align=right}
 
 !!! tip
     If you previously purchased one of the following bundles, you already own a PICO-8 license:  
@@ -21,7 +21,7 @@ Navigate to the PICO-8 system within the Quark games menu and select `☆ Splore
 
 To exit Splore and return to MainUI, press the MENU button and then select `SHUTDOWN PICO-8`. To exit out of a cart, press START and then select either `SHUTDOWN` or `EXIT TO SPLORE`, depending on whether you launched from the MainUI gamelist or Splore respectively.
 
-![Import PICO-8 carts](../../assets/img/quark_p8_import.png){align=right}
+![Import PICO-8 carts](../assets/img/quark_p8_import.png){align=right}
 
 !!! warning
     Quark will fall back to the FAKE-08 RetroArch core if the appropriate PICO-8 binaries are not found, which means Splore will not work.
