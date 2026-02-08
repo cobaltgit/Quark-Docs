@@ -46,6 +46,11 @@
 
     The hard part is now over. With the latest release of Quark downloaded, open it in your favourite archive browser (i.e. 7-Zip) and extract it over the root of your newly formatted microSD card.
 
+    !!! tip
+        Want to test the very latest builds of Quark? Download our [nightly release](https://github.com/cobaltgit/Quark/releases/tag/nightly), based on the latest git commit!
+        
+        Do note these releases are **unstable** and may contain bugs intended to be fixed in stable releases!
+
     Congratulations! You have now installed Quark on your TrimUI Smart!
 
 === "One-Click Installer"
